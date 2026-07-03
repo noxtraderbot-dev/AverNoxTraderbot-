@@ -1,0 +1,6 @@
+{
+  "name": "Aver Digital Wallet",
+  "description": "Sophisticated, professional dark-theme digital wallet platform, built and run by the New York Stock Exchange (NYSE).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
